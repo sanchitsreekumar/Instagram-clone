@@ -1,0 +1,12 @@
+React
+Nextjs
+next-auth
+Recoil
+tailwind
+firebase
+tailwind scrollbar
+tailwind scrollbar-hide
+tailwind forms
+heroicons
+headless ui
+react moment -> for timestamp in comments
